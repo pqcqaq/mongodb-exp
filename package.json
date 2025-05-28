@@ -12,7 +12,8 @@
     "test": "vitest"
   },
   "dependencies": {
-    "fast-glob": "^3.3.3"
+    "fast-glob": "^3.3.3",
+    "mongodb": "^6.16.0"
   },
   "devDependencies": {
     "@types/chai": "^5.2.2",
